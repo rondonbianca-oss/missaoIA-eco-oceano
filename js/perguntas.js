@@ -12,7 +12,7 @@ export const perguntas = [
             {
                 texto: "Focar em buscar novas tecnologias de laboratório para tentar cultivar corais artificiais resistentes ao calor em terra firme.",
                 afirmacao: [
-                    "Você optou por investir em soluções tecnológicas fora do habitat natural dos corais.",
+                    "Você optou por investir inovações fora do habitat natural dos corais.",
                     "Sua escolha focou na inovação científica de longo prazo para restaurar a vida nos mares."
                 ]
             }
@@ -56,4 +56,4 @@ export const perguntas = [
             }
         ]
     }
-]
+];
